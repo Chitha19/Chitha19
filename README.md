@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAutoAutoheight=300&section=header&text=&fontSize=70)
 <h1 align="center">Hi 👋, I'm Anchitha Kotchasila</h1>
 <h3 align="center">Coding learner.Baby data analyst.</h3>
 

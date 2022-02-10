@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anchitha Kotchasila</h1>
-<h3 align="center">Coding learner.Baby data analyst.</h3>
+<h3 align="center">You can call me 'Mi'.I'm a code learner. Currently, I'm a baby data analyst in between debuts in the world of data</h3>
 
 - 🌱 I’m currently studying **at King Mongkut's University of Technology North Bangkok(KMUTNB).**
 
